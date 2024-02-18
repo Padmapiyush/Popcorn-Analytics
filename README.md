@@ -22,7 +22,7 @@ To view the PowerBI dashboard and interact with the visualizations, follow these
     git clone https://github.com/Padmapiyush/Popcorn-Analytics.git
     ```
 
-2. Open the PowerBI dashboard file ( `PopcordAnalytics.pwbx`) using PowerBI.
+2. Open the PowerBI dashboard file ( `PopcordAnalytics.pbix`) using PowerBI.
 
 3. Explore the visualizations and analyze the Sexy Dashboard.
 
